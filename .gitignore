@@ -5,6 +5,9 @@ npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
 
+#cached data folder
+data
+
 # Runtime data
 pids
 *.pid
